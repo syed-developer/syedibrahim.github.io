@@ -1588,11 +1588,8 @@ article:last-child {
 }
 
 .image img {
-  
   width: 80%;
   height: 80%;
-  padding: 4%;
-  border-radius: 50%;
   object-fit: cover;
 }
 
